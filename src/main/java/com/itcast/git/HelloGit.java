@@ -1,16 +1,25 @@
 package com.itcast.git;
 
 public class HelloGit {
-	
+
 	public static void main(String[] args) {
 		System.out.println("Hello Git");
-		System.out.println("§ó·s");
-		System.out.println("³Ğ«Ø¤À¤ä");
 
-		System.out.println("¥D½u²K¥[");
+		System.out.println("ï¿½ï¿½s");
+		System.out.println("ï¿½Ğ«Ø¤ï¿½ï¿½ï¿½");
 
-		System.out.println("¤À¤ä²K¥[");
-		System.out.println("´£¥æ¤§«e§ó·s");
+		System.out.println("ï¿½Dï¿½uï¿½Kï¿½[");
+
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Kï¿½[");
+		System.out.println("ï¿½ï¿½ï¿½æ¤§ï¿½eï¿½ï¿½s");
+
+		System.out.println("Â§Ã³Â·s");
+		System.out.println("Â³ÃÂ«Ã˜Â¤Ã€Â¤Ã¤");
+
+		System.out.println("Â¥DÂ½uÂ²KÂ¥[");
+
+		System.out.println("Â¤Ã€Â¤Ã¤Â²KÂ¥[");
+		System.out.println("åœ¨ç·šæ·»åŠ ");
 
 	}
 }
